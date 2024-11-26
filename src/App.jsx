@@ -9,8 +9,8 @@ const App = () => {
 
       <div className="flex justify-between">
     <GreetingCards title={"Happy Birthday"} message={"Wishing you a fantastic day filled with joy"}/>
-      <GreetingCards title={"Happy Birthday"} message={"Wishing you a fantastic day filled with joy"}/>
-      <GreetingCards title={"Happy Birthday"} message={"Wishing you a fantastic day filled with joy"}/>
+      <GreetingCards title={"Congratulations!"} message={"Great job on your achievement!"}/>
+      <GreetingCards title={"Thank You!"} message={"Thanks for your kindness and support!"}/>
       </div>
       
     </div>
